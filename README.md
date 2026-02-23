@@ -160,12 +160,13 @@ This system is ideal for environments where data privacy is critical:
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
-Built as an AI project for industrial knowledge assistance and offline intelligent systems.
+## Contact Info
+
+For questions, issues, or collaboration, please contact:
+
+> **HARI PRASANNA M**
+> *E-mail: m.hariprasanna.hp@gmail.com*
+> *GitHub: hpthehacker0*
